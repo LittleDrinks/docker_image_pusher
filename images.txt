@@ -1,6 +1,6 @@
-node
+node:16-alpine
 nginx:alpine
-neo4j
-mysql
+neo4j:4.4
+mysql:8
 python:3.8
-redis
+redis:latest
